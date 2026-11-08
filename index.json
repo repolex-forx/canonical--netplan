@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "netplan",
+  "versions": [
+    {
+      "commit": "241306a711258aaa8667bbc011db9662f605e491",
+      "tag": "",
+      "parsed_at": "2026-11-08T15:15:31.894353+00:00"
+    }
+  ]
+}
