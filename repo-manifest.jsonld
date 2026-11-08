@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/netplan/commit/241306a711258aaa8667bbc011db9662f605e491",
       "git:hexsha": "241306a711258aaa8667bbc011db9662f605e491",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T15:15:31.893563+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/netplan/commit/faa6160cde57b0b04f266668c19d25108fd88c60",
